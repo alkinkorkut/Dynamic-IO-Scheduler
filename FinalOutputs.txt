@@ -1,0 +1,145 @@
+bfq
+mq-deadline [bfq] none
+I have choosen bfq
+Time passed for write operation: 0.00034928321838378906
+none
+[none] mq-deadline bfq 
+I have choosen none
+Time passed for write operation: 0.0035643577575683594
+mq-deadline
+[mq-deadline] bfq none
+I have choosen mq-deadline
+Time passed for write operation: 0.00034356117248535156
+none
+[none] mq-deadline bfq 
+I have choosen none
+Time passed for write operation: 0.007101297378540039
+none
+[none] mq-deadline bfq 
+I have choosen none
+Time passed for write operation: 7.891654968261719e-05
+none
+[none] mq-deadline bfq 
+I have choosen none
+Time passed for write operation: 0.0009067058563232422
+mq-deadline
+[mq-deadline] bfq none
+I have choosen mq-deadline
+Time passed for read operation: 0.0004565715789794922
+none
+[none] mq-deadline bfq 
+I have choosen none
+Time passed for read operation: 0.03166627883911133
+mq-deadline
+[mq-deadline] bfq none
+I have choosen mq-deadline
+Time passed for read operation: 0.0009717941284179688
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for read operation: 0.017252445220947266
+mq-deadline
+[mq-deadline] bfq kyber none
+I have choosen mq-deadline
+Time passed for read operation: 0.0001957416534423828
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for read operation: 0.0024390220642089844
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for re-read operation: 0.00025963783264160156
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for re-read operation: 0.01378178596496582
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for re-read operation: 0.00013899803161621094
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for re-read operation: 0.017760276794433594
+mq-deadline
+[mq-deadline] bfq kyber none
+I have choosen mq-deadline
+Time passed for re-read operation: 0.00011754035949707031
+mq-deadline
+[mq-deadline] bfq kyber none
+I have choosen mq-deadline
+Time passed for re-read operation: 0.0030870437622070312
+bfq
+mq-deadline [bfq] kyber none
+I have choosen bfq
+Time passed for re-write operation: 0.0005743503570556641
+bfq
+mq-deadline [bfq] kyber none
+I have choosen bfq
+Time passed for re-write operation: 0.003639698028564453
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for re-write operation: 0.00011038780212402344
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for re-write operation: 0.007172584533691406
+mq-deadline
+[mq-deadline] bfq kyber none
+I have choosen mq-deadline
+Time passed for re-write operation: 3.7670135498046875e-05
+none
+[none] mq-deadline bfq kyber 
+I have choosen none
+Time passed for re-write operation: 0.0011489391326904297
+mq-deadline
+[mq-deadline] bfq kyber none
+I have choosen mq-deadline
+Time passed for random-read operation: 0.001378774642944336
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for random-read operation: 0.024848461151123047
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for random-read operation: 0.00012350082397460938
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for random-read operation: 0.013161659240722656
+mq-deadline
+[mq-deadline] bfq kyber none
+I have choosen mq-deadline
+Time passed for random-read operation: 0.0001239776611328125
+mq-deadline
+[mq-deadline] bfq kyber none
+I have choosen mq-deadline
+Time passed for random-read operation: 0.001870870590209961
+bfq
+mq-deadline [bfq] kyber none
+I have choosen bfq
+Time passed for random-write operation: 0.0011930465698242188
+bfq
+mq-deadline [bfq] kyber none
+I have choosen bfq
+Time passed for random-write operation: 0.011986017227172852
+bfq
+mq-deadline [bfq] kyber none
+I have choosen bfq
+Time passed for random-write operation: 0.0002503395080566406
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for random-write operation: 0.024071693420410156
+mq-deadline
+[mq-deadline] bfq kyber none
+I have choosen mq-deadline
+Time passed for random-write operation: 0.0008511543273925781
+kyber
+mq-deadline bfq [kyber] none
+I have choosen kyber
+Time passed for random-write operation: 0.00473475456237793
+
